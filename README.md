@@ -1,2 +1,0 @@
-# iamhuman
-Created with CodeSandbox
